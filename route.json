@@ -1,0 +1,79 @@
+{
+    "routes": [
+        {
+            "legs": [
+                {
+                    "steps": [
+                        {
+                            "distanceMeters": 108,
+                            "staticDuration": "38s",
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 17.4284183,
+                                    "longitude": 78.44466
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "DEPART"
+                            }
+                        },
+                        {
+                            "distanceMeters": 15,
+                            "staticDuration": "8s",
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 17.428532699999998,
+                                    "longitude": 78.4447381
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_RIGHT"
+                            }
+                        },
+                        {
+                            "distanceMeters": 335,
+                            "staticDuration": "91s",
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 17.427785999999998,
+                                    "longitude": 78.44219149999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT"
+                            }
+                        },
+                        {
+                            "distanceMeters": 71,
+                            "staticDuration": "12s",
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 17.4277545,
+                                    "longitude": 78.44152849999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "NAME_CHANGE"
+                            }
+                        },
+                        {
+                            "distanceMeters": 14,
+                            "staticDuration": "10s",
+                            "endLocation": {
+                                "latLng": {
+                                    "latitude": 17.427631700000003,
+                                    "longitude": 78.44150789999999
+                                }
+                            },
+                            "navigationInstruction": {
+                                "maneuver": "TURN_LEFT"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "distanceMeters": 543,
+            "duration": "159s"
+        }
+    ]
+}
