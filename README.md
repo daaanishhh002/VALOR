@@ -1,7 +1,7 @@
 <h1 align="center">VALOR — Vision-Based Autonomous Location and Obstacle-Avoidance Robot</h1>
 
-An autonomous mobile robot designed to utilize **computer vision** for navigation and obstacle avoidance, eliminating the need for expensive sensors such as LIDAR.  
-This system processes visual input in real time to detect obstacles, opt safe paths, and control the robot’s movement in sparse/open outdoor environments.  
+An autonomous mobile robot designed to utilize **computer vision** for navigation and obstacle avoidance, eliminating the need for expensive sensors such as LIDAR. This system processes visual input in real time to detect obstacles, opt safe paths, and control the robot’s movement in sparse/open outdoor environments. 
+
 The project was undertaken as my **Final Year Engineering Project**, where I served as the **Project Head**, leading the design, development, and integration of both software and hardware components.  
 
 
@@ -41,8 +41,9 @@ The project was undertaken as my **Final Year Engineering Project**, where I ser
 ---
 
 ## 🔮 Future Improvements
-- Incorporate deep learning for robust detection  
-- Optimize power consumption  
+- Incorporate newer, more powerful model for robust detection  
+- Make robot smaller and lighter
+- Optimize power consumption
 
 ---
 
@@ -55,3 +56,5 @@ The project was undertaken as my **Final Year Engineering Project**, where I ser
 
 ## 📜 License
 MIT License – feel free to use, modify, and distribute.  
+
+---
