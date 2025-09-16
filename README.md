@@ -1,7 +1,9 @@
 <h1 align="center">VALOR — Vision-Based Autonomous Location and Obstacle-Avoidance Robot</h1>
 
-An autonomous mobile robot that uses **computer vision** instead of expensive sensors for navigation and obstacle avoidance.  
-Built with **OpenCV, Python, and C**, and tested on a differential drive robot platform.  
+An autonomous mobile robot designed to utilize **computer vision** for navigation and obstacle avoidance, eliminating the need for expensive sensors such as LIDAR.  
+This system processes visual input in real time to detect obstacles, opt safe paths, and control the robot’s movement in sparse/open outdoor environments.  
+The project was undertaken as my **Final Year Engineering Project**, where I served as the **Project Head**, leading the design, development, and integration of both software and hardware components.  
+
 
 ---
 
@@ -53,6 +55,3 @@ Built with **OpenCV, Python, and C**, and tested on a differential drive robot p
 
 ## 📜 License
 MIT License – feel free to use, modify, and distribute.  
-
-git clone https://github.com/yourusername/VisionBot.git
-cd VisionBot
