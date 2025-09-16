@@ -1,4 +1,4 @@
-# Vision-Based Autonomous Robot  
+<h1 align="center">VALOR — Vision-Based Autonomous Location and Obstacle-Avoidance Robot</h1>
 
 An autonomous mobile robot that uses **computer vision** instead of expensive sensors for navigation and obstacle avoidance.  
 Built with **OpenCV, Python, and C**, and tested on a differential drive robot platform.  
