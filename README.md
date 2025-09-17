@@ -17,7 +17,7 @@ The project was undertaken as my **Final Year Engineering Project**, where I ser
 
 ## 🛠️ Tech Stack  
 - **Languages:** Python, C  
-- **Frameworks & Libraries:** OpenCV, PyTorch,  
+- **Frameworks & Libraries:** OpenCV, PyTorch  
 - **Hardware:** Jetson Nano, ESP32, USB Camera, Motor Driver, Li-ion Battery  
 - **Tools:** Git, Linux, Labellmg  
 
