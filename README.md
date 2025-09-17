@@ -53,8 +53,3 @@ The project was undertaken as my **Final Year Engineering Project**, where I ser
 - **Syed Zeeshan** — Electronics & Testing  
 
 ---
-
-## 📜 License
-MIT License – feel free to use, modify, and distribute.  
-
----
